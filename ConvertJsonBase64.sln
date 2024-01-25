@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertJsonBase64", "ConvertJsonBase64\ConvertJsonBase64.csproj", "{F60197CD-40F5-4688-8F4A-0BF1EAF2F820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60197CD-40F5-4688-8F4A-0BF1EAF2F820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60197CD-40F5-4688-8F4A-0BF1EAF2F820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60197CD-40F5-4688-8F4A-0BF1EAF2F820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60197CD-40F5-4688-8F4A-0BF1EAF2F820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {723B7C3A-BFC0-49CE-85DB-F3948A2C48F9}
+	EndGlobalSection
+EndGlobal
