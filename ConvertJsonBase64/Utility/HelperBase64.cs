@@ -62,5 +62,15 @@ namespace ConvertJsonBase64.Utility
         }
 
 
+
+        public static string ConvertToJsonBase64(string jsonString)
+        {
+            byte[] bytes = Encoding.UTF8.GetBytes(jsonString);
+            string base64String = Convert.ToBase64String(bytes);
+            return base64String;
+        }
+
+
+
     }
 }
